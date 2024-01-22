@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+[Clique aqui para acessar minhas anotações](
+https://www.notion.so/LifeCycle-Hooks-Angular-b4ada92b4f3f43f7aaf3013bc66287e0?pvs=4)
+
 # LifeCycle
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
