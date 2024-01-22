@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LifeCycle
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# dio-lifecycle-hooks-angular
+>>>>>>> 67141ba216cf6b78fb7f7d7dce38d2d3ef44bbd4
